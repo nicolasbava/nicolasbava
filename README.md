@@ -1,3 +1,2 @@
 Hi I'm @nicolasbava.
-Frontend Developer.
-Rojolab Studio, BA Arg.
+Fullstack developer with Node.js, MERN stack.
